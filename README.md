@@ -42,4 +42,4 @@ Built to practice **React components, props, and styling**.
 👩‍💻 Created by **Prakruti Pareek**
 
 - GitHub: [PrakrutiPareek](https://github.com/PrakrutiPareek)
-- Portfolio: [prakruti-pareek-portfolio.netlify.app](https://prakruti-parrek-portfolio.netlify.app)
+- Portfolio: [prakruti-pareek-portfolio.netlify.app](https://prakruti-pareek-portfolio.netlify.app)
