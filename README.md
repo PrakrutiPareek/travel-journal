@@ -1,12 +1,45 @@
-# React + Vite
+# Travel Journal
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple **React project** that displays travel destinations in a card layout.  
+Built to practice **React components, props, and styling**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- List of travel destinations
+- Each entry shows:
+  - Destination image
+  - Location and Google Maps link
+  - Travel dates
+  - Description
+- Responsive card layout
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🖼️ Screenshot
+
+![Travel Journal Screenshot](/public/Images/traveljornal_screenshot.png)
+
+---
+
+## 🌐 Live Demo
+
+🔗 [View on Netlify](https://travel-journal-pp.netlify.app)
+
+---
+
+## 🛠️ Technologies Used
+
+- React
+- CSS
+- Vite
+
+---
+
+## 📬 Contact
+
+👩‍💻 Created by **Prakruti Pareek**
+
+- GitHub: [PrakrutiPareek](https://github.com/PrakrutiPareek)
+- Portfolio: [prakruti-pareek-portfolio.netlify.app](https://prakruti-parrek-portfolio.netlify.app)
